@@ -6,5 +6,5 @@ buttonSearch.addEventListener("click",  () => {
     modal.classList.remove("hide")
 })
 close.addEventListener("click", () => {
-    modal.classList.add("hide")
+    modal.classList.add("hide"))
 })
